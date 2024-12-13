@@ -7,7 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@primevue/themes": "^4.2.4",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
     "core-js": "^3.8.3",
+    "moment-timezone": "^0.5.46",
+    "primeflex": "^3.3.1",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.2.4",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"
