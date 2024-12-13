@@ -53,8 +53,10 @@
               <ol>
                 <li>
                   Clone o repositório: 
+                    <br>
                     <code>git clone https://github.com/lucaswalmor/digiliza_frontend.git</code>
-                    <code>git clone https://github.com/lucaswalmor/digiliza_frontend.git</code>
+                    <br>
+                    <code>git clone https://github.com/lucaswalmor/digiliza_backend.git</code>
                   </li>
                 <li>
                     Instale as dependências: <code>composer install</code> e
